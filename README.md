@@ -1,3 +1,0 @@
-# OverTheHorizon-Hub
-
-Personal Blog
