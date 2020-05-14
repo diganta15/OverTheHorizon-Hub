@@ -1,0 +1,21 @@
+[
+    {
+        "topic": "Cracked Games",
+        "body": {
+            "gamename":"World War Z",
+            "details":{
+                "hosting service": "Mega",
+                "link": "https://dummy.txt",
+                "encryption key": "fee4r34f323xr5"
+            },
+            "gamename":"Assassin's Creed",
+            "details": {
+                "hosting service": "Mega",
+                "link": "https://dummy.txt",
+                "encryption key": "fee4r34f323xr5"
+            }
+        }
+        
+        
+    }
+]
