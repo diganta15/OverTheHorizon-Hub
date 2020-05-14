@@ -1,0 +1,33 @@
+.card{
+    padding-left: 15%;
+    width: 85%;
+}
+footer{
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 2rem;
+    padding: 0 12%;
+    h4{
+        color: cornsilk;
+        padding-left: 10%;
+        
+    }
+    ul{
+        padding-top: 20px;
+        li{
+        list-style: none;
+        color: blanchedalmond;
+        padding: 0.4rem;
+        a{
+        text-decoration: none;
+        color: cornsilk ;
+        
+    }
+    a:hover{
+        color: #f4f4f4;
+    }
+    }
+    
+    }   
+}
