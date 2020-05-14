@@ -1,0 +1,34 @@
+{
+  "name": "overthehorizon",
+  "version": "1.0.0",
+  "description": "Blogging Page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diganta15/OverTheHorizon-Hub.git"
+  },
+  "keywords": [
+    "HTML",
+    "site",
+    "CSS",
+    "HTML5",
+    "Sass",
+    "JavaScript",
+    "Bootstrap",
+    "Jquery"
+  ],
+  "author": "Diganta Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diganta15/OverTheHorizon-Hub/issues"
+  },
+  "homepage": "https://diganta15.github.io/OverTheHorizon_Hub",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "gh-pages": "^2.2.0",
+    "jquery": "^3.5.1"
+  }
+}
