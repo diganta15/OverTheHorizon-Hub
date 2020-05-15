@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('.card-body').load('content/1.html');
+    $(".card-body").load("content/1.html");
 });
